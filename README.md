@@ -12,5 +12,7 @@ Remember that only correctly formed teams can submit solutions. You can go to My
 Judge system > https://hashcodejudge.withgoogle.com 
 
 Facebook Event > https://www.facebook.com/events/349916359177257/
+
 Meetup Event > https://www.meetup.com/lazybrain/
+
 Help & Q&A > hashcode@lazybrain.org
