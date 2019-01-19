@@ -9,10 +9,11 @@ Each of the data sets represents a separate instance of the problem. The score o
 
 Remember that only correctly formed teams can submit solutions. You can go to My Team page to verify the status of your team.
 
-Judge system > https://hashcodejudge.withgoogle.com 
+Problem statement released on: 	Thursday, Jan 3, 21:00 local time (20:00 UTC/GMT) <br>
+Submission deadline: 	Thursday, Feb 28, 17:00 local time (16:00 UTC/GMT) 
 
-Facebook Event > https://www.facebook.com/events/349916359177257/
+Judge system > https://hashcodejudge.withgoogle.com
 
-Meetup Event > https://www.meetup.com/lazybrain/
-
+Facebook Event > https://www.facebook.com/events/349916359177257/<br>
+Meetup Event > https://www.meetup.com/lazybrain/<br>
 Help & Q&A > hashcode@lazybrain.org
